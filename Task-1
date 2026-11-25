@@ -1,0 +1,20 @@
+<html>
+<head>
+  <title>My cake shop</title>
+</head>
+<body>
+ <h1>Welcome to cake shop</h2>
+ <h2>Fresh and homemade cake</h2>
+ <b>Our special cakes</b>
+
+ <pre>
+ 1.Choclate cake
+ 2.Lotus Bicoff
+ 3.Brownie
+ 4.Black Forest cake
+ </pre>
+ 
+ <img src="D:\24SBCS101\cake.jpg" width="300" height="200">
+ <p>price:rs.500<sup>%</sup></p>
+ </body>
+</html>
