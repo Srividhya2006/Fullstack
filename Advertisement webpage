@@ -1,0 +1,90 @@
+
+<html>
+<head>
+    <title>My Cake Shop</title>
+</head>
+<body>
+
+    <h1>Welcome to My Cake Shop</h1>
+    <h2>Fresh and Homemade Cakes</h2>
+
+    <a href="#home">Home</a> |
+    <a href="#menu">Menu</a> |
+    <a href="#about">About</a> |
+    <a href="#contact">Contact</a>
+
+    <hr>
+
+    <h2 id="home">Home</h2>
+
+    <img src="D:\24SBCS101\cake.jpeg" width="300" height="200">
+
+    <h2>Delicious Cakes for Every Occasion!</h2>
+
+    <p>Welcome to our Cake Shop! We offer fresh,
+    tasty and homemade cakes at affordable prices.</p>
+
+    <p>Make your special moments sweeter with
+    our delicious cakes.</p>
+
+    <h3>Why Choose Us?</h3>
+
+    <!-- Unordered List -->
+    <ul>
+        <li>Fresh and Quality Ingredients</li>
+        <li>Affordable Prices</li>
+        <li>Beautiful Cake Designs</li>
+        <li>Birthday and Wedding Cakes</li>
+        <li>Fast Delivery</li>
+    </ul>
+
+    <h3>Special Offer</h3>
+    <p>Get 10% discount on your first order!</p>
+
+    <hr>
+
+    <h2 id="menu">Our Cake Menu</h2>
+
+    <!-- Ordered List -->
+    <ol>
+        <li>Chocolate Cake - Rs.500</li>
+        <li>Lotus Biscoff - Rs.800</li>
+        <li>Brownie - Rs.200</li>
+        <li>Black Forest - Rs.600</li>
+        <li>Red Velvet - Rs.700</li>
+    </ol>
+
+    <hr>
+
+    <h2 id="about">About Us</h2>
+
+    <p>Our cake shop was started with a passion
+    for baking delicious homemade cakes.</p>
+
+    <p>We make cakes for birthdays, weddings,
+    parties and all special occasions.</p>
+
+    <hr>
+
+    <h2 id="contact">Contact Us</h2>
+
+    <p>Email: cakeshop@gmail.com</p>
+    <p>Phone: 9876543210</p>
+    <p>Address: Chennai</p>
+
+    <hr>
+
+    <h2>Audio</h2>
+
+    <audio controls>
+        <source src="D:\24SBCS101\a-sound-effect-sequence-f-mkcjrpfd.wav">
+    </audio>
+
+    <h2>Cake Making Video</h2>
+
+    <video width="300" height="200" controls>
+        <source src="cake.mp4" type="video/mp4">
+    </video>
+
+</body>
+</html>
